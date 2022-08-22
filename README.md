@@ -8,3 +8,6 @@ That metadata is stored at the beginning of the file in the form of two data str
 So by editing the header of these kind of image we can filter image in different mode.
 
 In this program there are four mode for the filter which are Blur, Grayscale, Reflection and Sepia.
+
+(Note: yard, tower, staduim, countryard all of them are bmg images with appropriate version to try them ,and out.bmp is the image after the filter)
+Here an example to  how run the program using terminal window : ./filter -g images/yard.bmp out.bmp
