@@ -1,5 +1,5 @@
 # bmg-photo-filter
-Filter simplly is a program that can put some effect on bmg image (this program works only for bmg image with version less than 4)
+Filter simply is a program that can put some effect on bmg image (this program works only for bmg image with version less than 4)
 
 the reason why it is works only for bmp image because photo is a file is just a sequence of bits, arranged in some fashion.
 A 24-bit BMP file, then, is essentially just a sequence of bits, (almost) every 24 of which happen to represent some pixel’s color.
